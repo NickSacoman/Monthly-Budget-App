@@ -1,9 +1,0 @@
-{
-  "name": "Budget-App",
-  "version": "1.0.0",
-  "description": "Monthly Budgeting",
-  "main": "index.js",
-  "repository": "https://github.com/NickSacoman/Monthly-Budget-App.git",
-  "author": "Nick Sacoman <sacomann@dickinson.edu>",
-  "license": "MIT"
-}
